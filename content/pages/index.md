@@ -50,8 +50,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/477032504_10235391856365505_2458918465822766670_n.jpg
         altText: '7'
         caption: Caption of the image
         elementId: ''
