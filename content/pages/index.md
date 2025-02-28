@@ -25,7 +25,7 @@ sections:
         caption: Image two caption
         elementId: ''
       - type: ImageBlock
-        url: /images/gallery-3.jpg
+        url: /images/480698484_10235532875730901_2644335287378061012_n.jpg
         altText: Image three
         caption: Image three caption
         elementId: ''
