@@ -7,13 +7,7 @@
         "isSticky": false,
         "title": "slike sa protesta u Zaplanju",
         "isTitleVisible": true,
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
-            }
-        ],
+        "primaryLinks": [],
         "socialLinks": [
             {
                 "type": "Social",
