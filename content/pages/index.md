@@ -124,7 +124,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/gallery-1.jpg
+        url: /images/55555555.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
