@@ -15,7 +15,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/55555555.jpg
+        url: /images/476233885_10235391858165550_8115568287395250994_n.jpg
         altText: Image one
         caption: Image one caption
         elementId: ''
