@@ -78,7 +78,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: Šebet sa vama
     subtitle: ''
     styles:
       self:

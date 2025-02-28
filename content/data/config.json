@@ -16,7 +16,7 @@
         },
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/555.jpg",
+            "url": "/images/pravda.png",
             "altText": "altText of the image",
             "caption": "Caption of the image",
             "elementId": ""
