@@ -45,8 +45,7 @@ sections:
         caption: Caption of the image
         elementId: ''
       - type: ImageBlock
-        url: >-
-          https://assets.stackbit.com/components/images/default/default-image.png
+        url: /images/480681568_10235532872330816_71866223307737991_n.jpg
         altText: '7'
         caption: Caption of the image
         elementId: ''
